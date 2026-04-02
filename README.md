@@ -1,8 +1,8 @@
 ## Hi, I'm Bhushan 👋
 
-🎓 Student & aspiring developer  .
-💻 Currently learning: Python, HTML, CSS  .
-🚀 Interested in: Web development & open source.
+🎓 Student & aspiring developer  
+💻 Currently learning: Python, HTML, CSS  
+🚀 Interested in: Web development & open source
 
 ### 🛠 Skills
 - Python
