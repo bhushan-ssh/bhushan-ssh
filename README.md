@@ -10,5 +10,5 @@
 - Git & GitHub
 
 ### 📌 Projects
-- 🔹 Quizmaster – Help students to prepare there exams...!
+- 🔹 Quizmaster – Help students to prepare there exams....!
 
