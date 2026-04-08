@@ -1,14 +1,56 @@
-## Hi, I'm Bhushan 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52339b8-30ff-42bb-96a6-a1108d055539" /># Hi, I'm Bhushan 👋
 
-🎓 Student & aspiring developer  
-💻 Currently learning: Python, HTML, CSS  
-🚀 Interested in: Web development & open source
+🎓 **Data Science Student @ IIT Madras**
+💻 **Aspiring Data Analyst | Python • SQL • Data Visualization**
 
-### 🛠 Skills
-- Python
-- HTML & CSS
-- Git & GitHub
+---
 
-### 📌 Projects
-- 🔹 Quizmaster – Help students to prepare there exams....!
+## 🚀 About Me
 
+* 📊 Passionate about **Data Analysis & Problem Solving**
+* 🧠 Currently learning **Machine Learning & Advanced Analytics**
+* 🌱 Exploring real-world datasets to gain insights
+* 🎯 Goal: Become a **Data Analyst / Data Scientist**
+
+---
+
+## 🛠️ Skills
+
+* **Programming:** Python
+* **Data Analysis:** Pandas, NumPy
+* **Visualization:** Matplotlib (learning more soon)
+* **Web Basics:** HTML, CSS
+* **Tools:** Git, GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 Quizmaster (Flask App)
+
+* Full-stack quiz application with admin & user dashboards
+* Includes performance tracking & basic analytics
+
+### 🔹 Data Analysis Notebooks (Coming Soon 🚀)
+
+* NumPy & Matplotlib visualizations
+* Real-world dataset analysis projects
+
+---
+
+## 📈 Currently Working On
+
+* 📊 Data Analysis Projects
+* 📚 Strengthening SQL & Python
+* 📉 Building dashboards (Power BI / Excel)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [bhushan.sonawane.tech@gmail.com](mailto:bhushan.sonawane.tech@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/bhushan-ssh
+
+---
+
+⭐ *Always learning, building, and improving every day!*
