@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52339b8-30ff-42bb-96a6-a1108d055539" /># Hi, I'm Bhushan 👋
+# Hi, I'm Bhushan 👋
 
 🎓 **Data Science Student @ IIT Madras**
 💻 **Aspiring Data Analyst | Python • SQL • Data Visualization**
