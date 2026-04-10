@@ -1,56 +1,78 @@
 # Hi, I'm Bhushan 👋
 
-🎓 **Data Science Student @ IIT Madras**
-💻 **Aspiring Data Analyst | Python • SQL • Data Visualization**
+🎓 Data Science Student @ IIT Madras  
+💻 Aspiring Data Analyst | Python • SQL • Data Visualization  
 
 ---
 
 ## 🚀 About Me
 
-* 📊 Passionate about **Data Analysis & Problem Solving**
-* 🧠 Currently learning **Machine Learning & Advanced Analytics**
-* 🌱 Exploring real-world datasets to gain insights
-* 🎯 Goal: Become a **Data Analyst / Data Scientist**
+📊 Passionate about turning **data into meaningful insights**  
+🧠 Currently learning **Machine Learning & Advanced Analytics**  
+🌱 Working on real-world datasets to build practical experience  
+🎯 Goal: Become a **Data Analyst / Data Scientist**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-* **Programming:** Python
-* **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib (learning more soon)
-* **Web Basics:** HTML, CSS
-* **Tools:** Git, GitHub
+**💻 Programming**
+- Python
+
+**📊 Data Analysis**
+- Pandas, NumPy
+
+**📈 Data Visualization**
+- Matplotlib (expanding to Seaborn & Power BI)
+
+**🌐 Web Basics**
+- HTML, CSS
+
+**🛠️ Tools & Platforms**
+- Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 Quizmaster (Flask App)
+- Full-stack quiz application with **admin & user dashboards**
+- Tracks user performance with basic analytics
+- Built using **Flask, HTML, CSS**
 
-* Full-stack quiz application with admin & user dashboards
-* Includes performance tracking & basic analytics
+---
 
-### 🔹 Data Analysis Notebooks (Coming Soon 🚀)
-
-* NumPy & Matplotlib visualizations
-* Real-world dataset analysis projects
+### 🔹 Data Analysis Projects (Coming Soon 🚀)
+- Exploratory Data Analysis (EDA) on real-world datasets
+- Visualizations using NumPy & Matplotlib
+- Insights-driven storytelling with data
 
 ---
 
 ## 📈 Currently Working On
 
-* 📊 Data Analysis Projects
-* 📚 Strengthening SQL & Python
-* 📉 Building dashboards (Power BI / Excel)
+- 📊 Real-world Data Analysis Projects  
+- 📚 Strengthening SQL & Python skills  
+- 📉 Building dashboards (Power BI / Excel)  
+- 🤖 Exploring Machine Learning basics  
+
+---
+
+## 🏆 Goals for 2026
+
+- Build **5+ strong data projects**
+- Master **SQL for analytics**
+- Learn **Power BI / Tableau**
+- Land a **Data Analyst Internship**
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [bhushan.sonawane.tech@gmail.com](mailto:bhushan.sonawane.tech@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/bhushan-ssh
+📧 Email: bhushan.sonawane.tech@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/bhushan-ssh  
+💻 GitHub: https://github.com/bhushan-ssh  
 
 ---
 
-⭐ *Always learning, building, and improving every day!*
+⭐ *Consistently learning, building, and leveling up every day!*
