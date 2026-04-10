@@ -66,11 +66,6 @@
 - Land a **Data Analyst Internship**
 
 ---
-## GitHub Stats
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-ssh&layout=compact)
 
 ## 📫 Connect With Me
 
