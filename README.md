@@ -71,7 +71,7 @@
 
 📧 Email: bhushan.sonawane.tech@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/bhushan-ssh  
-🧩 LeetCode: https://leetcode.com/your-profile  
+
 
 
 ---
