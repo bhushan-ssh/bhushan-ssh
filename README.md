@@ -1,7 +1,5 @@
 # Hi, I'm Bhushan 👋
 
-
-
 🎓 Data Science Student @ IIT Madras  
 💻 Aspiring Data Analyst | Python • SQL • Data Visualization  
 
