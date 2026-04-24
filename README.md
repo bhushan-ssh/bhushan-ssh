@@ -9,7 +9,6 @@
 🌱 Working on real-world datasets to build practical experience  
 🎯 Goal: Become a **Data Analyst / Data Scientist**
 ---
-
 ## 🛠️ Tech Stack
 
 **💻 Programming**
