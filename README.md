@@ -3,6 +3,9 @@
 💻 Aspiring Data Analyst | Python • SQL • Data Visualization  
 
 
+
+
+
 ---
 
 ## 🚀 About Me
