@@ -2,7 +2,6 @@
 🎓 Data Science Student @ IIT Madras  
 💻 Full Stack Developer | Python • SQL • Data Visualization  
 
-
 ---
 
 ## 🚀 About Me
@@ -11,7 +10,6 @@
 🧠 Currently learning **Machine Learning & Advanced Analytics**  
 🌱 Working on real-world datasets to build practical experience  
 🎯 Goal: Become a **Data Analyst / Data Scientist**
-
 
 ---
 ## 🛠️ Tech Stack
