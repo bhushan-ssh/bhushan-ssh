@@ -2,8 +2,6 @@
 🎓 IT Engineer + BS Data Science Student at IIT Madras  
 💻 Full Stack Developer • Data Science Enthusiast • Problem Solver  
 
-
-
 ---
 
 ## 🚀 About Me
