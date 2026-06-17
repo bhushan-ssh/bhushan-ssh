@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+---
 I am passionate about software development, data science, and solving real-world problems through technology.
 
 My interests:
