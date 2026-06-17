@@ -13,8 +13,8 @@
 ---
 
 ## 👨‍💻 About Me
----
-I am passionate about software development, data science, and solving real-world problems through technology.
+
+
 
 My interests:
 
@@ -24,7 +24,7 @@ My interests:
 - 🤖 Machine Learning Systems
 - 🧠 Data Structures & Algorithms
 
-
+I am passionate about software development, data science, and solving real-world problems through technology.
 ---
 
 # 🛠️ Tech Stack
