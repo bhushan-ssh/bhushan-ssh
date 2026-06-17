@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Bhushan Sonawane
 
-
-
-
-
-
-
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 IT Engineer | Data Science Student | Full Stack Developer
