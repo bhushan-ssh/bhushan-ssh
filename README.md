@@ -1,29 +1,24 @@
-<div align="center">
-
 # 👋 Hi, I'm Bhushan Sonawane
-
-### Software Developer | Data Science Enthusiast | AI Builder
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Exploring+AI+%26+Machine+Learning;Turning+Data+Into+Insights">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=bhushan-ssh&style=for-the-badge">
-
-</div>
-
----
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨‍💻 About Me
 
+
+--- 
 🎓 B.E. Information Technology  
 📊 B.S. Data Science @ IIT Madras  
 
-I build software systems focused on scalability, data, and automation.
+💻 Building scalable applications  
+🤖 Exploring AI & Machine Learning  
+📈 Turning data into meaningful insights  
 
-My focus areas:
+---
+
+## 👨‍💻 About Me
+
+I am passionate about software development, data science, and solving real-world problems through technology.
+
+My interests:
 
 - ⚡ Backend Development
 - 🌐 Full Stack Applications
@@ -31,56 +26,34 @@ My focus areas:
 - 🤖 Machine Learning Systems
 - 🧠 Data Structures & Algorithms
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
 
 
-## Backend & Web
+### Web & Backend
 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
 
 HTML • CSS • REST APIs
 
 
-## Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
 ![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite)
 
 
-## Data Science & AI
+### Data Science & ML
 
 - Pandas
 - NumPy
@@ -89,15 +62,6 @@ HTML • CSS • REST APIs
 - LSTM Models
 - Data Visualization
 
----
-
-# ⚙️ What I Build
-
-- REST API based backend systems
-- Data-driven applications
-- AI powered solutions
-- Full stack web platforms
-- Automation tools
 
 ---
 
@@ -108,17 +72,18 @@ HTML • CSS • REST APIs
 
 **Tech:** Python | Machine Learning | LSTM
 
-AI system predicting industrial machine failures.
+AI-powered predictive maintenance system for industrial machines.
 
 Features:
 
-✅ Remaining Useful Life prediction  
+✅ Remaining Useful Life (RUL) prediction  
 ✅ Failure pattern detection  
-✅ Time-series forecasting  
+✅ Time-series forecasting using LSTM  
 ✅ Intelligent maintenance workflow  
 
 
 🏆 **1st Place — SVIT HackVerse 2K26 Hackathon**
+
 
 ---
 
@@ -126,36 +91,40 @@ Features:
 
 **Tech:** Flask | SQLAlchemy | SQLite | Python
 
-Platform connecting students and recruiters.
+A platform connecting students with recruiters.
 
 Features:
 
-✅ Authentication  
-✅ Role Based Access Control  
-✅ Recruiter Dashboard  
-✅ Job Posting  
-✅ Internship Applications  
-✅ Application Tracking
+✅ Authentication system  
+✅ Role-based access control  
+✅ Recruiter job posting  
+✅ Internship applications  
+✅ Application tracking  
+✅ Scalable backend architecture
+
 
 ---
 
 ## 🧩 QuizMaster — Full Stack Quiz Application
 
-**Tech:** Flask | SQLite | Python
+**Tech:** Flask | SQLite | Python | HTML/CSS
 
-Quiz management platform.
+A complete quiz management platform.
 
 Features:
 
-✅ Admin Dashboard  
-✅ User Dashboard  
-✅ CRUD Operations  
-✅ Search System  
-✅ Performance Analytics
+✅ Admin dashboard  
+✅ User dashboard  
+✅ Quiz management  
+✅ CRUD operations  
+✅ Search functionality  
+✅ Performance analytics  
+
 
 ---
 
 # 🏆 Achievements
+
 
 🥇 Winner — SVIT HackVerse 2K26
 
@@ -164,10 +133,9 @@ Features:
 🥈 Runner-Up — SND College Project Competition 2024
 
 
-## Coding
+### Coding
 
 🔥 110+ LeetCode Problems Solved
-
 
 HackerRank Certifications:
 
@@ -176,23 +144,17 @@ HackerRank Certifications:
 - SQL Advanced
 - Java Basic
 
+
 ---
 
 # 🌱 Currently Learning
 
-```yaml
-Learning:
-  - Advanced SQL
-  - Power BI
-  - Backend System Design
-  - ML Deployment
-  - Competitive Programming
+- Advanced SQL
+- Power BI
+- Backend System Design
+- Machine Learning Systems
+- Competitive Programming
 
-Building:
-  - Scalable APIs
-  - AI Applications
-  - Data Projects
-```
 
 ---
 
@@ -206,38 +168,17 @@ Building:
 
 💼 Get Software/Data Internship
 
-🧠 Improve DSA & System Design
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan-ssh&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight">
+🧠 Improve DSA & system design skills
 
 
 ---
 
-# 🐍 Contribution Graph
+# 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/bhushan-ssh/bhushan-ssh/output/github-contribution-grid-snake.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&theme=tokyonight" />
 
 
----
-
-<div align="center">
-
-### ⭐ Building. Learning. Improving.
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight" />                     any improvement for this special github repo
 
 ---
 
