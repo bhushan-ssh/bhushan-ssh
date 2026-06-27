@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bhushan Sonawane
 
 
-<img align="right" width="320" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" height="195" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 --- 
 
