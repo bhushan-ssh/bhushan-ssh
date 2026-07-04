@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Bhushan Sonawane
 
-
-
 <img align="right" width="350" height="195" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 --- 
@@ -179,8 +177,7 @@ HackerRank Certifications:
 <img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&theme=tokyonight" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight" />                     any improvement for this special github repo
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight" />
 ---
 
 # 📫 Connect With Me
