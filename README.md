@@ -61,7 +61,6 @@ HTML • CSS • REST APIs
 - LSTM Models
 - Data Visualization
 
-
 ---
 
 # 🚀 Featured Projects
@@ -100,7 +99,6 @@ Features:
 ✅ Internship applications  
 ✅ Application tracking  
 ✅ Scalable backend architecture
-
 
 ---
 
@@ -168,7 +166,6 @@ HackerRank Certifications:
 💼 Get Software/Data Internship
 
 🧠 Improve DSA & system design skills
-
 
 ---
 
