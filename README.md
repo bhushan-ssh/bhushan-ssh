@@ -3,7 +3,7 @@
 --- 
 
 🎓 B.E. Information Technology  
-📊 B.S. Data Science @ IIT Madras  
+📊 B.S. Data Science @ Indian Institute Of Technology,Madras  
 
 💻 Building scalable applications  
 🤖 Exploring AI & Machine Learning  
