@@ -177,9 +177,15 @@ HackerRank Certifications:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight" />
 ---
 
-# 📫 Connect With Me
 
-📧 bhushan.sonawane.tech@gmail.com
+## 📫 Connect With Me
 
+- 📧 **Email:** <bhushan.sonawane.tech@gmail.com>
+- 💼 **LinkedIn:** https://linkedin.com/in/bhushan-ssh
+- 🏆 **Kaggle:** hhttps://www.kaggle.com/bhushanssh
+- 💡 **LeetCode:** https://leetcode.com/u/bhushan_ssh/
+- 🌐 **Portfolio:** https://my-portfolio-six-delta-17.vercel.app/
 
-⭐ Building today what can solve tomorrow's problems.
+---
+
+⭐ *Building today what can solve tomorrow's problems.*
