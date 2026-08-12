@@ -182,7 +182,7 @@ HackerRank Certifications:
 
 - 📧 **Email:** <bhushan.sonawane.tech@gmail.com>
 - 💼 **LinkedIn:** https://linkedin.com/in/bhushan-ssh
-- 🏆 **Kaggle:** hhttps://www.kaggle.com/bhushanssh
+- 🏆 **Kaggle:** https://www.kaggle.com/bhushanssh
 - 💡 **LeetCode:** https://leetcode.com/u/bhushan_ssh/
 - 🌐 **Portfolio:** https://my-portfolio-six-delta-17.vercel.app/
 
