@@ -2,6 +2,7 @@
 
 <img align="right" width="350" height="195" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 ---
 
 🎓 B.E. Information Technology  
