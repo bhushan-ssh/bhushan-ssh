@@ -105,7 +105,7 @@ Features:
 📊 **Best Validation Accuracy: 81.56%**  
 🎯 **ROC-AUC: 0.8585**
 
-🚀 [Live Demo]()  
+🚀 [Live Demo](https://bhushan-titanic-ml.streamlit.app/)  
 💻 [GitHub Repository](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)
 
 
