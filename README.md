@@ -86,6 +86,31 @@ Features:
 
 ---
 
+## 🚢 Titanic Survival Prediction
+
+**Tech:** Python | Pandas | Scikit-learn | Streamlit | Machine Learning
+
+An end-to-end Machine Learning project for predicting passenger survival using the Titanic dataset.
+
+Features:
+
+✅ Exploratory Data Analysis  
+✅ Data preprocessing & feature engineering  
+✅ Multiple ML model comparison  
+✅ Logistic Regression & Random Forest  
+✅ Hyperparameter tuning with GridSearchCV  
+✅ Model evaluation & experiment tracking  
+✅ Streamlit deployment  
+
+📊 **Best Validation Accuracy: 81.56%**  
+🎯 **ROC-AUC: 0.8585**
+
+🚀 [Live Demo]()  
+💻 [GitHub Repository](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)
+
+
+---
+
 ## 🔗 CareerLink — Job & Internship Portal
 
 **Tech:** Flask | SQLAlchemy | SQLite | Python
@@ -100,6 +125,7 @@ Features:
 ✅ Internship applications  
 ✅ Application tracking  
 ✅ Scalable backend architecture
+
 
 ---
 
@@ -116,8 +142,7 @@ Features:
 ✅ Quiz management  
 ✅ CRUD operations  
 ✅ Search functionality  
-✅ Performance analytics  
-
+✅ Performance analytics
 
 ---
 
