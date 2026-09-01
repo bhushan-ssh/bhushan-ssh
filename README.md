@@ -4,7 +4,6 @@
 
 ---
 
-
 🎓 B.E. Information Technology  
 📊 B.S. Data Science At Indian Institute Of Technology,Madras  
 
