@@ -84,180 +84,122 @@ Problem Solving        ███████████████████
 
 # 🚀 Featured Work
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### CareerLink
+## CareerLink
 
-**Full-Stack Job & Internship Platform**
+### Full-Stack Job & Internship Platform
 
 `Flask` `Vue` `SQLAlchemy` `SQLite` `Redis` `Celery`
 
-A full-stack placement platform connecting **students, recruiters, and administrators** through a centralized workflow.
+A full-stack placement platform connecting **students, recruiters, and administrators** through a centralized job and internship workflow.
 
-**Highlights**
+**Highlights:**
+Role-based authentication · Job & internship management · Application tracking · Admin dashboard · Background task processing
 
-* Role-based authentication
-* Job & internship management
-* Application tracking
-* Admin dashboard
-
-<br>
-
-**Focus:** Full-Stack · Backend · APIs
-
-<br>
-
-<a href="https://github.com/bhushan-ssh/CareerLink">→ View Repository</a>
+**Focus:** Full-Stack Development · Backend Engineering · REST APIs
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
-### Titanic Survival Prediction
+## Titanic Survival Prediction
 
-**End-to-End Machine Learning**
+### End-to-End Machine Learning Pipeline
 
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-A complete machine learning pipeline covering preprocessing, feature engineering, model comparison, evaluation, and deployment.
+A complete machine learning workflow covering **data exploration, preprocessing, feature engineering, model comparison, hyperparameter tuning, evaluation, and deployment**.
 
-**Highlights**
+**Highlights:**
+Feature engineering · Model comparison · Hyperparameter tuning · Model evaluation · Interactive deployment
 
-* Feature engineering
-* Model comparison
-* Hyperparameter tuning
-* Interactive deployment
-
-<br>
-
-**81.56% Validation Accuracy · 0.8585 ROC-AUC**
-
-<br>
-
-<a href="https://bhushan-titanic-ml.streamlit.app/">→ Live Demo</a> · <a href="https://github.com/bhushan-ssh/Titanic_Survival_Prediction">Repository</a>
+**Results:** `81.56% Validation Accuracy` · `0.8585 ROC-AUC`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### Smart MCQ Solver
+## Smart MCQ Solver
 
-**Deep Learning · NLP**
+### Deep Learning · NLP
 
 `Python` `PyTorch` `BERT` `BiLSTM` `BiGRU`
 
-An intelligent MCQ-solving system that ranks candidate answers using multiple deep-learning architectures and ensemble learning.
+An intelligent MCQ-solving system that combines multiple deep-learning architectures to rank candidate answers and improve question-answering performance.
 
-**Highlights**
+**Highlights:**
+BERT fine-tuning · BiLSTM · BiGRU + Attention · Ensemble learning · MAP@3 evaluation
 
-* BERT fine-tuning
-* BiLSTM architecture
-* BiGRU + Attention
-* Ensemble learning
-
-<br>
-
-**Best MAP@3: 0.7503**
-
-<br>
-
-<a href="https://github.com/bhushan-ssh/Smart_MCQ_Solver">→ View Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Heavy Equipment Price Prediction
-
-**Machine Learning · Regression**
-
-`Python` `XGBoost` `CatBoost`
-
-A predictive modeling system for estimating used heavy-equipment prices through feature engineering and ensemble modeling.
-
-**Highlights**
-
-* Data preprocessing
-* Feature engineering
-* Regression modeling
-* Ensemble methods
-
-<br>
-
-**Focus:** Predictive Modeling · Regression
-
-<br>
-
-<a href="https://github.com/bhushan-ssh/Heavy_Equipment_Selling_Price_Prediction">→ View Repository</a>
+**Best MAP@3:** `0.7503`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### Java & DSA
+## Heavy Equipment Price Prediction
 
-**Programming · Algorithms · Problem Solving**
+### Machine Learning · Regression
 
-`Java` `DSA` `Algorithms` `OOP`
+`Python` `XGBoost` `CatBoost`
 
-A long-running programming repository focused on strengthening Java fundamentals, data structures, algorithms, and problem-solving skills.
+A machine learning system designed to estimate **used heavy-equipment prices** through feature engineering and ensemble-based regression models.
 
-**Highlights**
+**Highlights:**
+Data preprocessing · Feature engineering · Regression modeling · Ensemble methods · Model evaluation
 
-* Java fundamentals
-* Object-oriented programming
-* Data structures
-* Algorithms & problem solving
-
-<br>
-
-**247+ Commits**
-
-<br>
-
-<a href="https://github.com/bhushan-ssh/Java">→ View Repository</a>
+**Focus:** Predictive Modeling · Regression · Machine Learning
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
-### Uptime
+## Java & DSA
 
-**AI Predictive Maintenance**
+### Programming · Algorithms · Problem Solving
+
+`Java` `Data Structures` `Algorithms` `OOP`
+
+A long-running programming repository focused on strengthening **Java fundamentals, object-oriented programming, data structures, algorithms, and problem-solving skills**.
+
+**Highlights:**
+Java fundamentals · OOP · Data structures · Algorithms · Problem solving
+
+**Repository Activity:** `247+ Commits`
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+## Uptime
+
+### AI Predictive Maintenance
 
 `Python` `LSTM` `Machine Learning` `Streamlit`
 
-An AI-powered system that analyzes industrial machine telemetry and estimates **Remaining Useful Life (RUL)**.
+An AI-powered predictive maintenance system that analyzes **industrial machine telemetry** and estimates the **Remaining Useful Life (RUL)** of equipment.
 
-**Highlights**
+**Highlights:**
+LSTM time-series prediction · RUL estimation · Failure pattern analysis · Telemetry dashboard
 
-* LSTM time-series prediction
-* RUL estimation
-* Failure pattern analysis
-* Interactive telemetry dashboard
-
-<br>
-
+**Achievement:** 🏆 `1st Place — SVIT HackVerse 2K26`
 
 </td>
 </tr>
 </table>
 
-🏆 **1st Place — SVIT HackVerse 2K26**
-
-<a href="https://github.com/bhushan-ssh/Uptime">→ View Repository</a>
-
-</td>
-</tr>
-</table>
-
----
 
 # 🏆 Recognition
 
