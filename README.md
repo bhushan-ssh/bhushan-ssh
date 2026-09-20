@@ -88,22 +88,26 @@ Problem Solving        ███████████████████
 <tr>
 <td width="50%" valign="top">
 
-## CareerLink
+### CareerLink
 
 **Full-Stack Job & Internship Platform**
 
 `Flask` `Vue` `SQLAlchemy` `SQLite` `Redis` `Celery`
 
-A placement platform connecting **students, recruiters, and administrators** through a centralized workflow.
+A full-stack placement platform connecting **students, recruiters, and administrators** through a centralized workflow.
 
-**Built with**
+**Highlights**
 
 * Role-based authentication
 * Job & internship management
 * Application tracking
 * Admin dashboard
-* REST API backend
-* Background task processing
+
+<br>
+
+**Focus:** Full-Stack · Backend · APIs
+
+<br>
 
 <a href="https://github.com/bhushan-ssh/CareerLink">→ View Repository</a>
 
@@ -111,18 +115,26 @@ A placement platform connecting **students, recruiters, and administrators** thr
 
 <td width="50%" valign="top">
 
-## Titanic Survival Prediction
+### Titanic Survival Prediction
 
-**End-to-End Machine Learning Pipeline**
+**End-to-End Machine Learning**
 
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-A complete ML workflow covering data exploration, preprocessing, feature engineering, model comparison, tuning, evaluation, and deployment.
+A complete machine learning pipeline covering preprocessing, feature engineering, model comparison, evaluation, and deployment.
 
-**Results**
+**Highlights**
 
-`81.56%` Validation Accuracy
-`0.8585` ROC-AUC
+* Feature engineering
+* Model comparison
+* Hyperparameter tuning
+* Interactive deployment
+
+<br>
+
+**81.56% Validation Accuracy · 0.8585 ROC-AUC**
+
+<br>
 
 <a href="https://bhushan-titanic-ml.streamlit.app/">→ Live Demo</a> · <a href="https://github.com/bhushan-ssh/Titanic_Survival_Prediction">Repository</a>
 
@@ -132,7 +144,7 @@ A complete ML workflow covering data exploration, preprocessing, feature enginee
 <tr>
 <td width="50%" valign="top">
 
-## Smart MCQ Solver
+### Smart MCQ Solver
 
 **Deep Learning · NLP**
 
@@ -140,13 +152,18 @@ A complete ML workflow covering data exploration, preprocessing, feature enginee
 
 An intelligent MCQ-solving system that ranks candidate answers using multiple deep-learning architectures and ensemble learning.
 
-**Approach**
+**Highlights**
 
 * BERT fine-tuning
-* BiLSTM
+* BiLSTM architecture
 * BiGRU + Attention
 * Ensemble learning
-* MAP@3 evaluation
+
+<br>
+
+**Best MAP@3: 0.7503**
+
+<br>
 
 <a href="https://github.com/bhushan-ssh/Smart_MCQ_Solver">→ View Repository</a>
 
@@ -154,21 +171,26 @@ An intelligent MCQ-solving system that ranks candidate answers using multiple de
 
 <td width="50%" valign="top">
 
-## Heavy Equipment Price Prediction
+### Heavy Equipment Price Prediction
 
-**Machine Learning**
+**Machine Learning · Regression**
 
 `Python` `XGBoost` `CatBoost`
 
-A predictive modeling system for estimating used heavy-equipment prices using feature engineering and ensemble models.
+A predictive modeling system for estimating used heavy-equipment prices through feature engineering and ensemble modeling.
 
-**Focus**
+**Highlights**
 
 * Data preprocessing
 * Feature engineering
 * Regression modeling
 * Ensemble methods
-* Model evaluation
+
+<br>
+
+**Focus:** Predictive Modeling · Regression
+
+<br>
 
 <a href="https://github.com/bhushan-ssh/Heavy_Equipment_Selling_Price_Prediction">→ View Repository</a>
 
@@ -178,15 +200,26 @@ A predictive modeling system for estimating used heavy-equipment prices using fe
 <tr>
 <td width="50%" valign="top">
 
-## Java & DSA
+### Java & DSA
 
-**Programming & Problem Solving**
+**Programming · Algorithms · Problem Solving**
 
 `Java` `DSA` `Algorithms` `OOP`
 
-A long-running repository focused on strengthening programming fundamentals, algorithms, data structures, and problem-solving skills.
+A long-running programming repository focused on strengthening Java fundamentals, data structures, algorithms, and problem-solving skills.
 
-**247+ commits**
+**Highlights**
+
+* Java fundamentals
+* Object-oriented programming
+* Data structures
+* Algorithms & problem solving
+
+<br>
+
+**247+ Commits**
+
+<br>
 
 <a href="https://github.com/bhushan-ssh/Java">→ View Repository</a>
 
@@ -194,7 +227,7 @@ A long-running repository focused on strengthening programming fundamentals, alg
 
 <td width="50%" valign="top">
 
-## Uptime
+### Uptime
 
 **AI Predictive Maintenance**
 
@@ -208,6 +241,13 @@ An AI-powered system that analyzes industrial machine telemetry and estimates **
 * RUL estimation
 * Failure pattern analysis
 * Interactive telemetry dashboard
+
+<br>
+
+
+</td>
+</tr>
+</table>
 
 🏆 **1st Place — SVIT HackVerse 2K26**
 
