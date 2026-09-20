@@ -1,218 +1,165 @@
-# 👋 Hi, I'm Bhushan Sonawane 
+# Hi, I'm Bhushan Sonawane
 
-<img align="right" width="350" height="195" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+**Software Developer • Data Science • Machine Learning**
 
----
+B.E. Information Technology | B.S. Data Science — IIT Madras
 
+I build practical software systems and machine learning applications with a focus on **backend development, data-driven solutions, and real-world problem solving**.
 
+Currently exploring **backend architecture, machine learning systems, analytics, and scalable applications**.
 
-🎓 B.E. Information Technology  
-📊 B.S. Data Science At Indian Institute Of Technology,Madras  
-
-💻 Building scalable applications  
-🤖 Exploring AI & Machine Learning  
-📈 Turning data into meaningful insights  
+[LinkedIn](https://linkedin.com/in/bhushan-ssh) · [Portfolio](https://my-portfolio-six-delta-17.vercel.app/) · [LeetCode](https://leetcode.com/u/bhushan_ssh/) · [Kaggle](https://www.kaggle.com/bhushanssh)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I am passionate about software development, data science, and solving real-world problems through technology.
-
-My interests:
-
-- ⚡ Backend Development
-- 🌐 Full Stack Applications
-- 📊 Data Analytics
-- 🤖 Machine Learning Systems
-- 🧠 Data Structures & Algorithms
-
+* Building full-stack and backend applications with **Python and Flask**
+* Exploring **Machine Learning, time-series modeling, and data analytics**
+* Practicing **Data Structures & Algorithms**
+* Interested in building software that solves practical problems
+* Currently preparing for **Software Engineering / Data Science opportunities**
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
+**Languages**
 
-### Languages
+`Python` `Java` `SQL`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+**Backend & Web**
 
+`Flask` `SQLAlchemy` `REST APIs` `HTML` `CSS`
 
-### Web & Backend
+**Data & Machine Learning**
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `LSTM` `Streamlit`
 
-HTML • CSS • REST APIs
+**Databases & Tools**
 
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite)
-
-
-### Data Science & ML
-
-- Pandas
-- NumPy
-- Matplotlib
-- Machine Learning
-- LSTM Models
-- Data Visualization
+`MySQL` `SQLite` `Git` `GitHub`
 
 ---
 
-# 🚀 Featured Projects
+# Selected Projects
 
+### Uptime — AI Predictive Maintenance
 
-## 🏆 Uptime — AI Predictive Maintenance System
+**Python · Machine Learning · LSTM · Time Series**
 
-**Tech:** Python | Machine Learning | LSTM
+An AI-powered predictive maintenance system designed to analyze industrial machine telemetry and predict potential failures.
 
-AI-powered predictive maintenance system for industrial machines.
+* Remaining Useful Life (RUL) prediction
+* Time-series forecasting with LSTM
+* Failure pattern detection
+* Predictive maintenance workflow
 
-Features:
+**1st Place — SVIT HackVerse 2K26**
 
-✅ Remaining Useful Life (RUL) prediction  
-✅ Failure pattern detection  
-✅ Time-series forecasting using LSTM  
-✅ Intelligent maintenance workflow  
-
-
-🏆 **1st Place — SVIT HackVerse 2K26 Hackathon**
-
+[View Project](https://github.com/bhushan-ssh/Uptime)
 
 ---
 
-## 🚢 Titanic Survival Prediction
+### CareerLink — Job & Internship Platform
 
-**Tech:** Python | Pandas | Scikit-learn | Streamlit | Machine Learning
+**Flask · Python · SQLAlchemy · SQLite · Vue**
 
-An end-to-end Machine Learning project for predicting passenger survival using the Titanic dataset.
+A full-stack platform connecting students, recruiters, and administrators through a centralized placement and internship workflow.
 
-Features:
+* Authentication and role-based access
+* Recruiter job and internship management
+* Student applications and tracking
+* Admin dashboard
+* Backend API architecture
 
-✅ Exploratory Data Analysis  
-✅ Data preprocessing & feature engineering  
-✅ Multiple ML model comparison  
-✅ Logistic Regression & Random Forest  
-✅ Hyperparameter tuning with GridSearchCV  
-✅ Model evaluation & experiment tracking  
-✅ Streamlit deployment  
-
-📊 **Best Validation Accuracy: 81.56%**  
-🎯 **ROC-AUC: 0.8585**
-
-🚀 [Live Demo](https://bhushan-titanic-ml.streamlit.app/)  
-💻 [GitHub Repository](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)
-
+[View Project](https://github.com/bhushan-ssh/CareerLink)
 
 ---
 
-## 🔗 CareerLink — Job & Internship Portal
+### Titanic Survival Prediction
 
-**Tech:** Flask | SQLAlchemy | SQLite | Python
+**Python · Pandas · Scikit-learn · Streamlit**
 
-A platform connecting students with recruiters.
+An end-to-end machine learning project covering data exploration, preprocessing, feature engineering, model comparison, tuning, evaluation, and deployment.
 
-Features:
+**Validation Accuracy:** 81.56%
+**ROC-AUC:** 0.8585
 
-✅ Authentication system  
-✅ Role-based access control  
-✅ Recruiter job posting  
-✅ Internship applications  
-✅ Application tracking  
-✅ Scalable backend architecture
-
+[Live Demo](https://bhushan-titanic-ml.streamlit.app/) · [Repository](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)
 
 ---
 
-## 🧩 QuizMaster — Full Stack Quiz Application
+### Smart MCQ Solver
 
-**Tech:** Flask | SQLite | Python | HTML/CSS
+**Python · Deep Learning · Generative AI · Streamlit**
 
-A complete quiz management platform.
+An AI-powered application that analyzes multiple-choice questions and provides answers through an interactive interface.
 
-Features:
-
-✅ Admin dashboard  
-✅ User dashboard  
-✅ Quiz management  
-✅ CRUD operations  
-✅ Search functionality  
-✅ Performance analytics
+[View Project](https://github.com/bhushan-ssh/Smart_MCQ_Solver)
 
 ---
 
-# 🏆 Achievements
+### Heavy Equipment Price Prediction
 
+**Python · XGBoost · CatBoost · Machine Learning**
 
-🥇 Winner — SVIT HackVerse 2K26
+A machine learning system for predicting used heavy-equipment prices using feature engineering and ensemble modeling.
 
-🏆 Winner — Micro Project Poster Presentation TECHFUSION 2K25
-
-🥈 Runner-Up — SND College Project Competition 2024
-
-
-### Coding
-
-🔥 110+ LeetCode Problems Solved
-
-HackerRank Certifications:
-
-- SQL Basic
-- SQL Intermediate
-- SQL Advanced
-- Java Basic
-
+[View Project](https://github.com/bhushan-ssh/Heavy_Equipment_Selling_Price_Prediction)
 
 ---
 
-# 🌱 Currently Learning
+# Achievements
 
-- Advanced SQL
-- Power BI
-- Backend System Design
-- Machine Learning Systems
-- Competitive Programming
+**1st Place** — SVIT HackVerse 2K26
+**Winner** — TECHFUSION 2K25 Micro Project Poster Presentation
+**Runner-Up** — SND College Project Competition 2024
 
+**110+ LeetCode problems solved**
 
----
+**HackerRank Certifications**
 
-# 🎯 2026 Goals
-
-🚀 Build impactful software projects
-
-📊 Master analytics & visualization
-
-🤖 Create production-ready AI applications
-
-💼 Get Software/Data Internship
-
-🧠 Improve DSA & system design skills
+* SQL Basic
+* SQL Intermediate
+* SQL Advanced
+* Java Basic
 
 ---
 
-# 📊 GitHub Stats
+# Currently Exploring
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&theme=tokyonight" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&theme=tokyonight" />
----
-
-
-## 📫 Connect With Me
-
-- 📧 **Email:** <bhushan.sonawane.tech@gmail.com>
-- 💼 **LinkedIn:** https://linkedin.com/in/bhushan-ssh
-- 🏆 **Kaggle:** https://www.kaggle.com/bhushanssh
-- 💡 **LeetCode:** https://leetcode.com/u/bhushan_ssh/
-- 🌐 **Portfolio:** https://my-portfolio-six-delta-17.vercel.app/
+* Backend System Design
+* Advanced SQL
+* Machine Learning Systems
+* Data Analytics & Power BI
+* Competitive Programming
 
 ---
 
-⭐ *Building today what can solve tomorrow's problems.*
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&hide_border=true&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+# Let's Connect
+
+**Email:** [bhushan.sonawane.tech@gmail.com](mailto:bhushan.sonawane.tech@gmail.com)
+
+**LinkedIn:** https://linkedin.com/in/bhushan-ssh
+
+**Portfolio:** https://my-portfolio-six-delta-17.vercel.app/
+
+**Kaggle:** https://www.kaggle.com/bhushanssh
+
+**LeetCode:** https://leetcode.com/u/bhushan_ssh/
+
+---
+
+<p align="center">
+  <i>Building practical software. Learning continuously. Solving real problems.</i>
+</p>
