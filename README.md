@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Bhushan Sonawane
 
 **Software Developer · Machine Learning · Data Science**
