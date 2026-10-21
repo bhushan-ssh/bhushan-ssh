@@ -1,230 +1,177 @@
-<div align="center">
-
-
 # Bhushan Sonawane
 
-**Software Developer · Machine Learning · Data Science**
+### Software Developer | Machine Learning | Data Science
 
-B.E. Information Technology · B.S. Data Science & Applications, IIT Madras
+B.E. in Information Technology · B.S. in Data Science & Applications, IIT Madras
 
-Building software systems, machine learning applications, and data-driven products.
+I build software systems, machine learning applications, and data-driven products — combining backend development, data analysis, and model development to solve practical problems.
 
-[LinkedIn](https://linkedin.com/in/bhushan-ssh) · [Portfolio](https://my-portfolio-six-delta-17.vercel.app/) · [LeetCode](https://leetcode.com/u/bhushan_ssh/) · [Kaggle](https://www.kaggle.com/bhushanssh)
-
-</div>
-
----
-
-## About
-
-I'm interested in the intersection of **software engineering, machine learning, and data science**.
-
-I enjoy building complete solutions — from data processing and model development to backend systems, APIs, databases, and user-facing applications.
-
-**Areas of interest**
-
-* Backend & Full-Stack Development
-* Machine Learning & Deep Learning
-* Data Science & Analytics
-* REST APIs & Databases
-* Data Structures & Algorithms
+<p align="center">
+  <a href="https://linkedin.com/in/bhushan-ssh">LinkedIn</a> ·
+  <a href="https://my-portfolio-six-delta-17.vercel.app/">Portfolio</a> ·
+  <a href="https://leetcode.com/u/bhushan_ssh/">LeetCode</a> ·
+  <a href="https://www.kaggle.com/bhushanssh">Kaggle</a>
+</p>
 
 ---
+
+## About Me
+
+- Interested in software engineering, machine learning, and data science.
+- Enjoy building end-to-end applications, from data processing and model development to APIs, databases, and user interfaces.
+- Explore backend architecture, predictive modeling, and practical applications of deep learning.
+- Focus on writing maintainable code and building useful, data-driven solutions.
 
 ## Technical Skills
 
-**Languages**
+**Programming Languages**
 
-Python · Java · SQL
+`Python` `Java` `SQL`
 
-**Backend & Web**
+**Backend & Web Development**
 
-Flask · Flask-RESTful · Vue 3 · SQLAlchemy · REST APIs · HTML · CSS
+`Flask` `Flask-RESTful` `SQLAlchemy` `Vue 3` `REST APIs` `HTML` `CSS`
 
-**Machine Learning**
+**Machine Learning & Deep Learning**
 
-PyTorch · Scikit-learn · XGBoost · CatBoost · BERT · LSTM
+`PyTorch` `Scikit-learn` `XGBoost` `CatBoost` `BERT` `LSTM`
 
-**Data**
+**Data Science & Visualization**
 
-Pandas · NumPy · Matplotlib · Seaborn · Streamlit
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit`
 
-**Databases & Infrastructure**
+**Databases & Background Processing**
 
-SQLite · MySQL · Redis · Celery · Celery Beat
+`SQLite` `MySQL` `Redis` `Celery` `Celery Beat`
 
-**Tools**
+**Tools & Version Control**
 
-Git · GitHub
+`Git` `GitHub`
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### CareerLink
+### 1. CareerLink — Placement & Recruitment Platform
 
-**Full-Stack Placement & Recruitment Platform**
-
-`Vue 3` `Flask` `SQLAlchemy` `SQLite` `Redis` `Celery`
+**Tech Stack:** Vue 3 · Flask · SQLAlchemy · SQLite · Redis · Celery
 
 A full-stack platform designed to manage placement and recruitment workflows for students, companies, and administrators.
 
-* Role-based Student, Company, and Admin workflows
-* Job and placement-drive management
-* Application tracking
-* Interview scheduling and feedback
-* Admin dashboard and analytics
-* Redis caching
-* Celery background tasks
-* Scheduled reports and notifications
+- Role-based workflows for students, companies, and administrators.
+- Job listings, placement-drive management, and application tracking.
+- Interview scheduling and feedback management.
+- Administrative dashboard with analytics.
+- Redis caching for improved data access.
+- Celery background tasks, scheduled reports, and notifications.
 
-[Repository](https://github.com/bhushan-ssh/CareerLink)
+**[View Repository →](https://github.com/bhushan-ssh/CareerLink)**
 
----
+### 2. QuizMaster — Quiz & Performance Analytics
 
-### QuizMaster
+**Tech Stack:** Flask · SQLAlchemy · SQLite · Jinja2 · Bootstrap
 
-**Quiz & Performance Analytics Platform**
+A web-based quiz application combining assessment workflows with performance tracking and analytics.
 
-`Flask` `SQLAlchemy` `SQLite` `Jinja2` `Bootstrap`
+- Subject, unit, quiz, and question management.
+- Quiz attempts, scoring, and performance tracking.
+- Score analysis, rankings, and interactive visualizations.
+- Administrative dashboard for managing quiz content and users.
 
-A web-based quiz platform with separate user and administrator workflows, built with integrated performance analytics.
+**[View Repository →](https://github.com/bhushan-ssh/Quizmaster)**
 
-* Subject, unit, quiz, and question management
-* User quiz attempts and scoring
-* Performance tracking
-* Score and ranking analysis
-* Interactive performance visualizations
-* Admin management dashboard
+### 3. Uptime — AI-Powered Predictive Maintenance
 
-[Repository](https://github.com/bhushan-ssh/Quizmaster)
-
----
-
-### Uptime
-
-**AI-Powered Predictive Maintenance**
-
-`Python` `LSTM` `Streamlit` `Plotly`
+**Tech Stack:** Python · LSTM · Streamlit · Plotly
 
 A predictive maintenance application that analyzes industrial machine telemetry and estimates Remaining Useful Life (RUL).
 
-* LSTM-based time-series prediction
-* RUL estimation
-* Failure-mode analysis
-* Telemetry visualization
-* Interactive monitoring dashboard
+- LSTM-based time-series prediction.
+- Remaining Useful Life estimation.
+- Failure-mode analysis.
+- Telemetry visualization and interactive monitoring dashboard.
 
-**1st Place — SVIT HackVerse 2K26**
+**Achievement:** 🏆 1st Place — SVIT HackVerse 2K26
 
-[Repository](https://github.com/bhushan-ssh/Uptime)
+**[View Repository →](https://github.com/bhushan-ssh/Uptime)**
 
----
+### 4. Smart MCQ Solver — Deep Learning & NLP
 
-### Smart MCQ Solver
+**Tech Stack:** PyTorch · BERT · BiLSTM · BiGRU · Transformers
 
-**Deep Learning & NLP**
+A deep-learning system that ranks probable answers to multiple-choice questions using neural networks and ensemble methods.
 
-`PyTorch` `BERT` `BiLSTM` `BiGRU` `Transformers`
+- BERT fine-tuning for contextual language understanding.
+- BiLSTM-based answer prediction.
+- BiGRU with attention.
+- Ensemble learning for answer ranking.
+- Top-3 answer prediction.
 
-A deep-learning system for ranking the most probable answers to multiple-choice questions.
+**Best MAP@3:** `0.7503`
 
-* BERT fine-tuning
-* BiLSTM
-* BiGRU with Attention
-* Ensemble learning
-* Top-3 answer prediction
+**[View Repository →](https://github.com/bhushan-ssh/Smart_MCQ_Solver)**
 
-**Best MAP@3: 0.7503**
+### 5. Heavy Equipment Price Prediction
 
-[Repository](https://github.com/bhushan-ssh/Smart_MCQ_Solver)
+**Tech Stack:** Python · XGBoost · CatBoost · HistGradientBoosting
 
----
+A machine learning regression system for predicting used heavy-equipment prices through feature engineering and ensemble modeling.
 
-### Heavy Equipment Price Prediction
+- Exploratory data analysis.
+- Feature engineering and categorical encoding.
+- Cross-validation and model evaluation.
+- Ensemble regression using gradient-boosting models.
 
-**Machine Learning Regression**
+**OOF RMSLE:** `0.20217`
 
-`Python` `XGBoost` `CatBoost` `HistGradientBoosting`
+**[View Repository →](https://github.com/bhushan-ssh/Heavy_Equipment_Selling_Price_Prediction)**
 
-A regression system for predicting used heavy-equipment prices using engineered features and ensemble models.
+### 6. Titanic Survival Prediction
 
-* Exploratory data analysis
-* Feature engineering
-* Categorical encoding
-* Cross-validation
-* Ensemble regression
-* Model evaluation
+**Tech Stack:** Python · Pandas · Scikit-learn · Streamlit
 
-**OOF RMSLE: 0.20217**
+An end-to-end machine learning project covering the complete model development workflow, from data exploration to deployment.
 
-[Repository](https://github.com/bhushan-ssh/Heavy_Equipment_Selling_Price_Prediction)
+- Exploratory data analysis and feature engineering.
+- Comparison of multiple machine learning models.
+- Cross-validation and hyperparameter tuning.
+- Model evaluation and Streamlit deployment.
 
----
+**Validation Accuracy:** `81.56%` · **ROC-AUC:** `0.8585`
 
-### Titanic Survival Prediction
-
-**End-to-End Machine Learning**
-
-`Python` `Pandas` `Scikit-learn` `Streamlit`
-
-A complete machine-learning workflow covering preprocessing, feature engineering, model comparison, tuning, evaluation, and deployment.
-
-* Exploratory data analysis
-* Feature engineering
-* Multiple model comparison
-* Cross-validation
-* Hyperparameter tuning
-* Streamlit deployment
-
-**Validation Accuracy: 81.56%**
-**ROC-AUC: 0.8585**
-
-[Repository](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)
+**[View Repository →](https://github.com/bhushan-ssh/Titanic_Survival_Prediction)**
 
 ---
 
-## Recognition
+## Achievements & Recognition
 
-**1st Place**
-SVIT HackVerse 2K26
-
-**Winner**
-TECHFUSION 2K25 — Micro Project Poster Presentation
-
-**Runner-Up**
-SND College Project Competition 2024
-
----
+- 🥇 **1st Place** — SVIT HackVerse 2K26
+- 🏆 **Winner** — TECHFUSION 2K25, Micro Project Poster Presentation
+- 🥈 **Runner-Up** — SND College Project Competition 2024
 
 ## Problem Solving
 
-**LeetCode:** 110+ problems solved
+- **LeetCode:** 110+ problems solved.
+- **HackerRank:** SQL Basic, SQL Intermediate, SQL Advanced, and Java Basic certifications.
 
-**HackerRank:** SQL Basic · SQL Intermediate · SQL Advanced · Java Basic
+## GitHub Statistics
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
+</p>
 
 ## Currently Exploring
 
-Backend Architecture · Advanced SQL · Machine Learning Systems · Deep Learning · Data Analytics · Competitive Programming
+`Backend Architecture` · `Advanced SQL` · `Machine Learning Systems` · `Deep Learning` · `Data Analytics` · `Competitive Programming`
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhushan-ssh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-ssh&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/bhushan-ssh) · [Portfolio](https://my-portfolio-six-delta-17.vercel.app/) · [LeetCode](https://leetcode.com/u/bhushan_ssh/) · [Kaggle](https://www.kaggle.com/bhushanssh)
-
-</div>
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+  <br /><br />
+  <a href="https://linkedin.com/in/bhushan-ssh">LinkedIn</a> ·
+  <a href="https://my-portfolio-six-delta-17.vercel.app/">Portfolio</a> ·
+  <a href="https://leetcode.com/u/bhushan_ssh/">LeetCode</a> ·
+  <a href="https://www.kaggle.com/bhushanssh">Kaggle</a>
+</p>
