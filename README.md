@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # Hi, I'm Bhushan Sonawane 👋
 
 <a href="https://portfolio-plum-beta-63.vercel.app/">
